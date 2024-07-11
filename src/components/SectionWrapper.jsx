@@ -36,12 +36,7 @@ const SectionWrapper = ({ title, description, showBtn, mockupImg, banner, revers
         ${reverse ? "fadeLeftMini" : "fadeRightMini"}
         ${styles.sectionImg}`} />
         </div>
-
-
       </div>
-      
-      
-      
     </div>
   )
 }
