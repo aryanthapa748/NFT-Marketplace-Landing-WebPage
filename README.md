@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# NFT Marketplace landing webpage
+This repository hosts the landing page/website for the React Native Application - NFT Marketplace [link to the repository](https://github.com/aryanthapa748/NFT-Marketplace-App) where we can see all the features and description of what the App is all about. The landing page will feature dynamic sections, including a hero banner with a mock-up of the app, description sections with engaging text, and interactive buttons for navigation. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Outcome
+![Screenshot](https://github.com/aryanthapa748/nft-marketplace-landing-webpage/blob/main/screenshots/Screenshot%202024-07-12%20at%201.17.04%E2%80%AFPM.png)
+![Screenshot](https://github.com/aryanthapa748/nft-marketplace-landing-webpage/blob/main/screenshots/Screenshot%202024-07-12%20at%201.17.43%E2%80%AFPM.png)
 
-## Available Scripts
+## To see the landing page/website 
+* Fork this directory, clone it in your local device and in the project directory, you can run: ### `npm start`
+* Runs the app in the development mode.\
+* Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* The page will reload when you make changes.\
 
-In the project directory, you can run:
+## To see the actual Application in you device
+To experience the application in real-time, download the **Expo Go App** from the App Store or Google Play, scan the QR code provided when clicking the **View It on Expo button** on the landing page to instantly preview it on your mobile device.
 
-### `npm start`
+**Users have to download the Expo Go App to view it live on your device by scanning the QR code.** 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Project Goals:
+* Create a user-friendly and engaging landing page that effectively showcases the key features and benefits of the NFT marketplace app.
+* Ensure responsiveness and compatibility across different devices and screen sizes.
+* Deploy the landing page to a suitable hosting platform, possibly including decentralized options like IPFS for enhanced security and performance.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Technologies Used:
+* **React Native:** Framework for building the mobile app landing page.
+* **Tailwind CSS:** Utility-first CSS framework for styling.
+* **JavaScript/ES6+:** Language used for programming logic and interactivity.
+* **SVGs and Mock-ups:** Visual assets used to illustrate app features and benefits.
 
 ## Learn More
-
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Contact
+* Email: aryanthapa748@gmail.com
+* LinkedIn : [Aryan Thapa](https://www.linkedin.com/in/aryanthapa/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
