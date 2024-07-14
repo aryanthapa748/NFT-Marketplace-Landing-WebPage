@@ -1,7 +1,7 @@
 # NFT Marketplace landing webpage
 This repository hosts the landing page/website for the React Native Application - NFT Marketplace App where we can see all the features and description of what the App is all about. The landing page will feature dynamic sections, including a hero banner with a mock-up of the app, description sections with engaging text, and interactive buttons for navigation.
 
-[link to the repository of the App not this landing webpage](https://github.com/aryanthapa748/NFT-Marketplace-App)
+[Link to the repository of the actual Application - not this landing webpage](https://github.com/aryanthapa748/NFT-Marketplace-App)
 
 ## Outcome
 ![Screenshot](https://github.com/aryanthapa748/nft-marketplace-landing-webpage/blob/main/screenshots/Screenshot%202024-07-12%20at%201.17.04%E2%80%AFPM.png)
@@ -18,7 +18,7 @@ To experience the application in real-time, download the **Expo Go App** from th
 
 **Users have to download the Expo Go App to view it live on your device by scanning the QR code.**
 
-[link to the repository of the App not this landing webpage](https://github.com/aryanthapa748/NFT-Marketplace-App)
+[Link to the repository of the actual Application - not this landing webpage](https://github.com/aryanthapa748/NFT-Marketplace-App)
 
 ## Project Goals:
 * Create a user-friendly and engaging landing page that effectively showcases the key features and benefits of the NFT marketplace app.
